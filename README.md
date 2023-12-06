@@ -1,9 +1,9 @@
 # Game proyect
 
-Sigue las siguentes instrucciones en la terminal:
+Sigue las instrucciones en la terminal:
 
 ---
-
+sh  
 cd py-proyect
 python game.py
 
