@@ -2,8 +2,7 @@
 
 Sigue las instrucciones en la terminal:
 
-```
-sh  
+```sh  
 cd py-proyect
 python game.py
 
